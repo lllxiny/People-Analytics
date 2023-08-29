@@ -21,3 +21,4 @@ This Python script reads and preprocesses text data, performs tokenization and s
 5. **Extracting Noun Phrases and Frequency Analysis**:
    - Use TextBlob to extract noun phrases.
 
+Image source: https://litslink.com/blog/a-complete-guide-to-natural-language-processing-nlp
